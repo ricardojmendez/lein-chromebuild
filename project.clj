@@ -4,6 +4,6 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :eval-in-leiningen true
-  :dependencies [[lein-cljsbuild "1.1.1"]
-                 [cljsbuild "1.1.1"]
-                 [juxt/dirwatch  "0.2.2"]])
+  :dependencies [[lein-cljsbuild "1.1.4"]
+                 [cljsbuild "1.1.4"]
+                 [juxt/dirwatch  "0.2.3"]])
